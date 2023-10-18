@@ -6,3 +6,4 @@ World Happiness Index [Tableau](https://public.tableau.com/views/WorldHappinessi
 
 India Population [Tableau](https://public.tableau.com/views/IndiaPopulationvizualization/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+Netflix Dashboard [Tableau](https://public.tableau.com/views/NetflixVisualization_16976295861820/FinalReport?:language=en-US&:display_count=n&:origin=viz_share_link)
